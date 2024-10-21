@@ -27,7 +27,9 @@ You can install the required libraries by running the following command:
 ```bash
 pip install requests beautifulsoup4 Flask matplotlib Flask-SocketIO pandas scikit-learn
 
+
 Projects
+
 1. Calculator
 A simple command-line calculator that performs basic arithmetic operations.
 
